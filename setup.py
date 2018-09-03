@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pyisa",
-    version="1.0",
+    version="1.0.1",
     author="Sagar Dawda",
     author_email="sagard21@gmail.com",
     description="Basic project structure creation for Data Science Projects",
