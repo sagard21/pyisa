@@ -1,0 +1,4 @@
+
+        [build_project]
+        buildpackage=pyisa.build:cli
+    

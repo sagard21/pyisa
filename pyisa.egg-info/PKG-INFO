@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pyisa
-Version: 1.0.1
+Version: 1.0.2
 Summary: Basic project structure creation for Data Science Projects
 Home-page: https://github.com/sagard21/pyisa
 Author: Sagar Dawda
@@ -47,7 +47,8 @@ Description: **pyisa - Python Intent based Structuring Approach**
         ---------------------------
         
         Run this command on Linux command prompt:
-        build_project --project_path=/absolute/path --project_name=name --project_tree=True
+        
+        build  --project_path=/absolute/path  --project_name=name  --tree=True
         
         
 Platform: UNKNOWN
