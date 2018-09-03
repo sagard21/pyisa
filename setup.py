@@ -1,12 +1,11 @@
 import setuptools
-from setuptools import setup, find_packages
 
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
     name="pyisa",
-    version="1.0.2",
+    version="1.0.4",
     author="Sagar Dawda",
     author_email="sagard21@gmail.com",
     description="Basic project structure creation for Data Science Projects",
@@ -20,8 +19,8 @@ setuptools.setup(
         'Click',
     ],
     entry_points='''
-        [build_project]
-        buildpackage=pyisa.build:cli
+        [console_scripts]
+        build_project=pyisa.build:build_project
     ''',
     classifiers=[
         "Programming Language :: Python :: 2.7",

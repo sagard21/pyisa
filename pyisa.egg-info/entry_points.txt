@@ -1,4 +1,4 @@
 
-        [build_project]
-        buildpackage=pyisa.build:cli
+        [console_scripts]
+        build_project=pyisa.build:build_project
     
