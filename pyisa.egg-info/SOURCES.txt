@@ -1,0 +1,8 @@
+README.md
+setup.py
+pyisa/__init__.py
+pyisa/build.py
+pyisa.egg-info/PKG-INFO
+pyisa.egg-info/SOURCES.txt
+pyisa.egg-info/dependency_links.txt
+pyisa.egg-info/top_level.txt
