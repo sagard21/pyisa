@@ -1,4 +1,4 @@
 
         [console_scripts]
-        build_project=pyisa.build:build_project
+        pyisa_build=pyisa.build:build_project
     
