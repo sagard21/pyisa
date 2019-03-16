@@ -40,5 +40,5 @@ pip install pyisa
 
 Run this command on Linux command prompt:
 
-pyisa_build  --project_path=/absolute/path  --project_name=name  --tree=True
+'pyisa_build  --project_path=/absolute/path  --project_name=name  --tree=True'
 
